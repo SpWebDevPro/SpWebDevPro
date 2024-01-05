@@ -7,7 +7,7 @@
 <p align="center">I enjoy solving problems, designing, developing and improving products.</p>
 <p align="center">I always try to integrate both business issues and user expectations in a project.</p>
 <p align="center">As my experience increases, i care about architecture and code quality.</p>
-
+<p align="center">💬 Ask me about anything, i will be happy to help</p>
 
 
 </br>
@@ -107,9 +107,8 @@
 </p>
 </br>
 </br>
-***
-<p align="center">💬 ask me about anything, i will be happy to help</p>
-<h3 align="center">Feel free to Connect with me:</h3>
+
+<h3 align="center">Feel free to connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/@sandypradier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sandypradier" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sandrine-pradier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandrine-pradier" height="30" width="40" /></a>
