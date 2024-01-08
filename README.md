@@ -6,7 +6,7 @@
 
 <p align="center">I enjoy solving problems, designing, developing and improving products.</p>
 <p align="center">I always try to integrate both business issues and user expectations in a project.</p>
-<p align="center">As my experience increases, i care about architecture and code quality.</p>
+<p align="center">As I gain in dev experience, i care about architecture and code quality.</p>
 <p align="center">💬 Ask me about anything, i will be happy to help</p>
 
 
